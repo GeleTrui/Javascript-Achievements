@@ -1,0 +1,16 @@
+.yellow {
+    color: yellow;
+    font-size: 20px;
+}
+.red {
+    color: rgb(243, 17, 17);
+    font-size: 25px;
+}
+.purple {
+    color: rgb(172, 30, 172);
+    font-size: 30px;
+}
+.green {
+    color: rgb(22, 131, 22);
+    font-size: 35px;
+}
