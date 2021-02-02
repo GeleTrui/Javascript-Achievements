@@ -1,7 +1,7 @@
-const textElement = document.getElementById('text');
+nconst textElement = document.getElementById('text');
 
 document.addEventListener('click', () => {
-    textElement.innerHTML = 'Niet scrollen! klik! ';
+    textElement.innerHTML = 'doe s ff leuk scrollen! ';
 });
 
 document.addEventListener('wheel', () => {
